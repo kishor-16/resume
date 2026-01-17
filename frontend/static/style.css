@@ -43,3 +43,6 @@ button:hover {
     display: inline-block;
     text-align: left;
 }
+title{
+    text-align: center;
+}
